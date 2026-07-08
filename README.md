@@ -448,6 +448,16 @@ It includes:
 
 ## Dashboard Preview
 
-![Sales Dashboard](Documentation/SalesAnalysisProjectDashboard.pdf)
+### Executive Dashboard
+![keyInsightsDashboard](Documentation/keyInsightsDashboard.png)
+
+### Customer Insights
+![Customer Insights](Documentation/CustomerDetailsDashboard.png)
+
+### Product Insights
+![Product Insights](Documentation/ProductInsightsDashboard.png)
+
+### Profit Analysis
+![Profit Analysis](Documentation/ProductPerformanceDashboard.png)
 
 ## Author
