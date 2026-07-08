@@ -461,3 +461,8 @@ It includes:
 ![Profit Analysis](Documentation/ProductPerformanceDashboard.png)
 
 ## Author
+**Menaka Narayanasamy**
+
+LinkedIn:[ Add your LinkedIn profile link](https://www.linkedin.com/in/menaka-narayanasamy-8a5588a1/)
+
+GitHub: [Add your GitHub profile link](https://github.com/menakabasu/Sales-Analytics-Dashboard)
