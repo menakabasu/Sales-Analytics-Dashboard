@@ -449,7 +449,7 @@ It includes:
 ## Dashboard Preview
 
 ### Executive Dashboard
-![keyInsightsDashboard](Documentation/keyInsightsDashboard.png)
+![keyInsightsDashboard](Documentation/KeyInsightsDashboard.png)
 
 ### Customer Insights
 ![Customer Insights](Documentation/CustomerDetailsDashboard.png)
